@@ -1,0 +1,7 @@
+html5lib
+cssutils
+beautifulsoup4
+requests
+black
+autopep8
+ast-super-parser
